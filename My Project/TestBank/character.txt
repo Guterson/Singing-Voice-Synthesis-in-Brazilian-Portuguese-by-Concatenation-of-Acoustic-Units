@@ -1,0 +1,6 @@
+name=Tester
+author=Guterson
+version=3.0
+sample=
+web=www.youtube.com
+image=singer

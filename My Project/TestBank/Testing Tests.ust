@@ -1,0 +1,12 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=120.00
+Tracks=1
+ProjectName=Testing Tests
+VoiceDir=C:\Users\GPA\Documents\My Project\TestBank
+OutFile=Test_Wave.wav
+CacheDir=Testing Tests.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+[#TRACKEND]

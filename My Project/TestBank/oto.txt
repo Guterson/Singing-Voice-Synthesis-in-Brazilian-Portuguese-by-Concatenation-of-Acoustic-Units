@@ -1,0 +1,7 @@
+v6_ve_vi_vo_vu_v6.wav=vo,,,,,
+'T6_'Te_'Ti_'To_'Tu_'T6.wav=o_'T,,,,,
+'T6_'Te_'Ti_'To_'Tu_'T6.wav='Ti,,,,,
+k~6_k~e_k~i_k~o_k~u_k~6.wav=~i_k,,,,,
+k~6_k~e_k~i_k~o_k~u_k~6.wav=k~o,,,,,
+t~6_t~e_t~i_t~o_t~u_t~6.wav=~o_t,,,,,
+ta_tE_ti_tO_tu_ta.wav=ta,,,,,
