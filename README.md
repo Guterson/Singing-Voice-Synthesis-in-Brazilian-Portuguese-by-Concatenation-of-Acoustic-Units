@@ -12,7 +12,7 @@ The project consisted in a deep study of the process of selecting acoustic units
 
 - A .pdf file (written in brazilian Portuguese) describing all the process and reasoning from recording a voicebank to synthesizing audio via a Python script. The original monograph was published [here](https://www.repositorio.poli.ufrj.br/monografias/projpoli10043782.pdf).
 
-- A monopitch voicebank recorded by [me](https://github.com/Guterson).
+- Somes samples of the monopitch voicebank recorded by [me](https://github.com/Guterson). If you want access to the full voicebank, please contact [me](mailto:gml@poli.ufrj.br).
 
 ## Notes
 
